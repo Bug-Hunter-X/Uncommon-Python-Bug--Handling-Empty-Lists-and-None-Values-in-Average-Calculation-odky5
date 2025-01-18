@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Python related to average calculation. The `calculate_average` function in `bug.py` encounters issues when provided an empty list or a list containing `None` values.  The solution in `bugSolution.py` addresses this by implementing robust error handling.
